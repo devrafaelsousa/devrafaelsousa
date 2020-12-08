@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, sejam muito bem-vindos! 👋
-#### :man_technologist: Eu sou Rafael Sousa e sou:
+Hello, welcome! 👋
 
- - :man_student: Estudante de Análise e Desenvolvimento de Sistemas.
- - :rocket: Meu objetivo é me tornar um Desenvolvedor Web FullStack.
- - :heart: Livros, músicas, séries e jogos.
- - :guitar: Violão e Cantar
- - :e-mail: rafael.sousa.pereira01@gmail.com
+👨‍💻 I’m Rafael Sousa
+🇧🇷 I live Brazil, from the interior of São Paulo.
+👨‍🎓 Student of Systems Analysis and Development.
+🚀 My goal is to become a FullStack Web Developer.
+❤️ Books, music, series and games.
+🎸 Guitar and Singing
+📧 rafael.sousa.pereira01@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&hide=powershell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
 
-<p align="left">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devrafaelsousa" id="counter">
