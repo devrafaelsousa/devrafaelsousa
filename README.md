@@ -10,6 +10,10 @@
  - I have been learning more about React and Node :computer: 
  - Books, music, series and games :heart:
  - Guitar and Singing :guitar:  
+ 
+<div>
+<img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg"  alt="a colaboracao do programador no trabalho" align="center" heignt="320" width="320"  style="max-width:100%; posistion=relative;top=40px;left=40px;">
+</div>
 
 ##### My Skills:
 <div>
@@ -21,7 +25,7 @@
 <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg"  alt="jquery" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg"  alt="mysql" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;" position="relative">
 </div>
 
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dark)
