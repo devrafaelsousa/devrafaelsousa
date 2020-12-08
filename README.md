@@ -7,7 +7,7 @@
 <main>
   <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
- <h4>I'm Rafael Sousa 👋</h4>
+ <h4>I'm Rafael Sousa Pereira 👋</h4>
  <ul>
  <li> I live in :brazil:, from the interior of São Paulo :sunglasses: </li> 
  <li> Student of Systems Analysis and Development :man_student: </li>
