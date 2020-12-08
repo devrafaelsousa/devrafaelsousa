@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey, welcome! 👋
-#### I'm Rafael Sousa
--  I live Brazil, from the interior of São Paulo :brazil:
--   I have been learning more about Javascript, HTML and CSS :man_technologist: 
+# Hello, welcome!👋
+## I'm Rafael Sousa
+-  I live :brazil:, from the interior of São Paulo :sunglasses:
+-   I have been learning more about Javascript, HTML and CSS :computer: 
  -  Student of Systems Analysis and Development :man_student:
  -  My goal is to become a FullStack Web Developer :rocket:
  -  Books, music, series and games :heart:
- - Guitar and Singing :guitar: 
+ - Guitar and Singing :guitar:  
  
 ### _Connect with me_:
-<a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
-<img align="center" alt="rafael-linkedin" heignt="80" width="90" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
-
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
 ### _My Skills_:
 <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
