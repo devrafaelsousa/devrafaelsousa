@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Olá, sejam muito bem-vindos! 👋
+#### :man_technologist: Eu sou Rafael Sousa e sou:
+
+ - :man_student: Estudante de Análise e Desenvolvimento de Sistemas.
+ - :rocket: Meu objetivo é me tornar um Desenvolvedor Web FullStack.
+ - :heart: Livros, músicas, séries e jogos.
+ - :guitar: Violão e Cantar
+ - :e-mail: rafael.sousa.pereira01@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
