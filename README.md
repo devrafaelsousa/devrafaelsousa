@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=gradiente)
+
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devrafaelsousa" id="counter">
 </p>
