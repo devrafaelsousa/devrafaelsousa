@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### _Connect with me_:
 <a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
 <img align="center" alt="rafael-linkedin" heignt="80" width="90" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
-</a>
+
 
 ### _My Skills_:
 <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg"  alt="github" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;">
-<br>
 
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
