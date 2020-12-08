@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Hello, welcome!👋
 ## I'm Rafael Sousa
--  I live :brazil:, from the interior of São Paulo :sunglasses:
--   I have been learning more about Javascript, HTML and CSS :computer: 
- -  Student of Systems Analysis and Development :man_student:
- -  My goal is to become a FullStack Web Developer :rocket:
- -  Books, music, series and games :heart:
+ - I live in :brazil:, from the interior of São Paulo :sunglasses:
+ - Student of Systems Analysis and Development :man_student:
+ - My goal is to become a FullStack Web Developer :rocket:
+ - I have been learning more about React.js and Node.js :computer: 
+ - Books, music, series and games :heart:
  - Guitar and Singing :guitar:  
  
 ### _Connect with me_:
