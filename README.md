@@ -4,6 +4,10 @@
 **devrafaelsousa/devrafaelsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Connect with me:
+<a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
+<img align="center" alt="rafael-linkedin" heignt="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
