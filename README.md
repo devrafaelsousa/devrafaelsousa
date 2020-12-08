@@ -13,8 +13,11 @@
  - Guitar and Singing :guitar:  
 
 <section>
-<img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho" align="none" heignt="320" width="320" left="500" style="max-width:100%">
+<div>
+<img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho" aligth="left" heignt="320" width="320" style="max-width:100%;" transform="scaleX(-1);">
+</div>
 </section>
+
 
 ##### My Skills:
 <div>
