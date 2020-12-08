@@ -24,4 +24,4 @@
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;">
 </div>
 
-![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
+![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dark)
