@@ -25,3 +25,4 @@
 </div>
 
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&langs_count=8&hide=powershell,shell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
