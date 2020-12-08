@@ -1,32 +1,14 @@
-### Hi there 👋
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
-<!--
-**devrafaelsousa/devrafaelsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello, welcome!👋
-## I'm Rafael Sousa
+## I'm Rafael Sousa 👋
  - I live in :brazil:, from the interior of São Paulo :sunglasses:
  - Student of Systems Analysis and Development :man_student:
  - My goal is to become a FullStack Web Developer :rocket:
  - I have been learning more about React.js and Node.js :computer: 
  - Books, music, series and games :heart:
  - Guitar and Singing :guitar:  
- 
-### _Connect with me_:
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
 ### _My Skills_:
 <div>
