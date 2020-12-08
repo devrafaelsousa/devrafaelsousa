@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
 ### _My Skills_:
+<div>
 <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/java/java-plain-wordmark.svg"  alt="java" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"  alt="javascript" align="center" heignt="50" width="50"  style="max-width:100%;">
@@ -40,5 +41,6 @@ Here are some ideas to get you started:
 <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg"  alt="github" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;">
+</div>
 
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
