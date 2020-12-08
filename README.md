@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  - :e-mail: rafael.sousa.pereira01@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&hide=powershell)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devrafaelsousa" id="counter">
