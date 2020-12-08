@@ -26,10 +26,6 @@ Here are some ideas to get you started:
  
 ### Connect with me:
 <a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
-<img align="center" alt="rafael-linkedin" heignt="80" width="90" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
-</a>
-
-<a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
 <img align="center" alt="rafael-linkedin" heignt="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
 
