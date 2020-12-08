@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
 <main>
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" style="float:right;margin-left:50px;">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
  <h4>I'm Rafael Sousa 👋</h4>
  <ul>
