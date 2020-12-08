@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
 <img align="center" alt="rafael-linkedin" heignt="80" width="90" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
-<a href="https://mail.google.com/mail/u/2/?tab=wm#inbox" target="_blank">
-<img align="center" alt="rafael-gmail" heignt="80" width="90" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" style="max-width:100%;">
+<a href="rafael.sousa.pereira01@gmail.com" target="_blank">
+<img align="center" alt="rafael-gmail" heignt="40" width="50" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" style="max-width:100%;">
 </a>
 
 ### _My Skills_:
