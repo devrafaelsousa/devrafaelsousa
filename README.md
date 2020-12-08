@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 Hello, welcome! 👋
 
-👨‍💻 I’m Rafael Sousa
-🇧🇷 I live Brazil, from the interior of São Paulo.
-👨‍🎓 Student of Systems Analysis and Development.
-🚀 My goal is to become a FullStack Web Developer.
-❤️ Books, music, series and games.
-🎸 Guitar and Singing
-📧 rafael.sousa.pereira01@gmail.com
+- 👨‍💻 I’m Rafael Sousa
+- 🇧🇷 I live Brazil, from the interior of São Paulo.
+- 👨‍🎓 Student of Systems Analysis and Development.
+- 🚀 My goal is to become a FullStack Web Developer.
+- ❤️ Books, music, series and games.
+- 🎸 Guitar and Singing
+- 📧 rafael.sousa.pereira01@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&hide=powershell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
