@@ -28,5 +28,3 @@
 <img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho" align="left" heignt="320" width="320" style="max-width:100%;">
 </div>
 </div>
-
-
