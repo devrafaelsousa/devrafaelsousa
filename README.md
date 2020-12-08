@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, welcome! 👋
-
-- 👨‍💻 I’m Rafael Sousa
-- 🇧🇷 I live Brazil, from the interior of São Paulo.
-- 👨‍🎓 Student of Systems Analysis and Development.
-- 🚀 My goal is to become a FullStack Web Developer.
-- ❤️ Books, music, series and games.
-- 🎸 Guitar and Singing
-- 📧 rafael.sousa.pereira01@gmail.com
+### Hey, welcome! 👋
+#### I'm Rafael Sousa
+-  I live Brazil, from the interior of São Paulo :brazil:
+-   I have been learning more about Javascript, HTML and CSS :man_technologist: 
+ -  Student of Systems Analysis and Development :man_student:
+ -  My goal is to become a FullStack Web Developer :rocket:
+ -  Books, music, series and games :heart:
+ - Guitar and Singing :guitar: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&hide=powershell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
