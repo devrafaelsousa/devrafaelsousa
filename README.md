@@ -28,6 +28,3 @@
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;" position="relative">
 </div>
-
-![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&langs_count=8&hide=powershell,shell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
