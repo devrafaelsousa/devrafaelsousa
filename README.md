@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rafael Sousa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devrafaelsousa)](https://github.com/devrafaelsousa/github-readme-stats)
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=radical)
 
 <p align="center">
