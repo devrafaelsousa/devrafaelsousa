@@ -3,17 +3,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
+<main>
 
-##### I'm Rafael Sousa 👋
- - I live in :brazil:, from the interior of São Paulo :sunglasses: 
- - Student of Systems Analysis and Development :man_student:
- - My goal is to become a FullStack Web Developer :rocket:
- - I have been learning more about React and Node :computer: 
- - Books, music, series and games :heart:
- - Guitar and Singing :guitar:  
- 
- <img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho" align="left" heignt="320" width="320"  >
-
+ <h4>I'm Rafael Sousa 👋</h4>
+ <ul>
+ <li> I live in :brazil:, from the interior of São Paulo :sunglasses: </li> 
+ <li> Student of Systems Analysis and Development :man_student: </li>
+ <li> My goal is to become a FullStack Web Developer :rocket: </li>
+ <li> I have been learning more about React and Node :computer: </li>
+ <li> Books, music, series and games :heart: </li>
+ <li> Guitar and Singing :guitar: </li>  
+ </ul>
+ <div style="float:right">
+ <img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho"  heignt="320" width="320">
+ </div>
+</main>
 
 ##### My Skills:
 <div>
