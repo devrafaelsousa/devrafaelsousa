@@ -3,8 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
-<main>
 
+<main>
  <h4>I'm Rafael Sousa 👋</h4>
  <ul>
  <li> I live in :brazil:, from the interior of São Paulo :sunglasses: </li> 
@@ -14,10 +14,8 @@
  <li> Books, music, series and games :heart: </li>
  <li> Guitar and Singing :guitar: </li>  
  </ul>
- <div style="float:right">
- <img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho"  heignt="320" width="320">
- </div>
-</main>
+ 
+ <img src="https://image.freepik.com/vetores-gratis/a-colaboracao-do-programador-de-homem-com-o-trabalho-do-parceiro-no-laptop-cria-site-de-design-de-projeto-com-estilo-cartoon-plana_197170-376.jpg" alt="colaboracao do programador no trabalho" align=right heignt="320" width="320" style="float:right;margin-left:50px;">
 
 ##### My Skills:
 <div>
@@ -31,3 +29,4 @@
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;" position="relative">
 </div>
+</main>
