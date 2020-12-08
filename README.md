@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=radical)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devrafaelsousa" id="counter">
