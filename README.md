@@ -7,7 +7,7 @@
  - I live in :brazil:, from the interior of São Paulo :sunglasses:
  - Student of Systems Analysis and Development :man_student:
  - My goal is to become a FullStack Web Developer :rocket:
- - I have been learning more about React.js and Node.js :computer: 
+ - I have been learning more about React and Node :computer: 
  - Books, music, series and games :heart:
  - Guitar and Singing :guitar:  
 
