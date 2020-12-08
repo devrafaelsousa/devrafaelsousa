@@ -27,7 +27,20 @@ Here are some ideas to get you started:
 ### Connect with me:
 <a href="https://www.linkedin.com/in/rafael-sousa-dev/" target="_blank">
 <img align="center" alt="rafael-linkedin" heignt="80" width="90" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
-</a>
+
+### My Skills:
+<img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/java/java-plain-wordmark.svg"  alt="java" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"  alt="javascript" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg"  alt="html5" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg"  alt="css3" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg"  alt="jquery" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg"  alt="mysql" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/git/git-plain-wordmark.svg"  alt="git" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg"  alt="github" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
+<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsousa&hide=powershell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Rafael Sousa's github stats](https://github-readme-stats.vercel.app/api?username=devrafaelsousa&show_icons=true&theme=dracula)
