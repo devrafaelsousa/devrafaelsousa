@@ -13,7 +13,7 @@
  <li> Student of Systems Analysis and Development :man_student: </li>
  <li> My goal is to become a FullStack Web Developer :rocket: </li>
  <li> I have been learning more about Java and ReactJS :computer: </li>
- <li> Books, music, series and games :heart: </li>
+ <li> Books, music, series, games, football(soccer) and basktball :heart: </li>
  <li> Guitar and Singing :guitar: </li>  
  </ul>
 
