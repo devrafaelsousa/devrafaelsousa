@@ -17,6 +17,7 @@
  <li> Guitar and Singing :guitar: </li>  
  </ul>
 
+ <!-- 
 ##### My Skills:
 <div>
 <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
@@ -29,4 +30,5 @@
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;" position="relative">
 </div>
+-->
 </main>
