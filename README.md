@@ -1,5 +1,5 @@
 
-# Junior Programmer
+# Programmer Jr
 <main>
   <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
