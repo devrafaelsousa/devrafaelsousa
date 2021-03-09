@@ -9,8 +9,7 @@
  <li> Student of Systems Analysis and Development :man_student: </li>
  <li> My goal is to become a FullStack Web Developer :rocket: </li>
  <li> I have been learning more about Java :computer: </li>
- <li> Books, music, series, games, football(soccer) and basktball :heart: </li>
- <li> Guitar and Singing :guitar: </li>  
+ <li> Books, music, series, games, guitar, football/soccer and basktball :heart: </li>  
  </ul>
  
  [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
