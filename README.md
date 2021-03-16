@@ -15,6 +15,12 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
+
+<!-- ![Rafa's github stats](https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&theme=dracula) -->
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&theme=dracula&show=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats) -->
+
  <!-- 
 ##### My Skills:
 <div>
