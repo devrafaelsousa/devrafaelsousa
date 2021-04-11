@@ -8,7 +8,7 @@
  <li> I live in :brazil:, from the interior of São Paulo :sunglasses: </li> 
  <li> Student of Systems Analysis and Development :man_student: </li>
  <li> My goal is to become a Software Developer :rocket: </li>
- <li> I have been learning more about Java :computer: </li>
+ <li> I have been learning more about Java, Angular and Flutter:computer: </li>
  <li> Books, music, series, games, guitar, football/soccer and basktball :heart: </li>  
  </ul>
  
