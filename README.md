@@ -6,11 +6,11 @@
 [![Python Badge](https://img.shields.io/badge/Python-006192?style=flat-square-badge&logo=Python&logoColor=white&link=)]()
 [![Flutter Badge](https://img.shields.io/badge/Flutter-blue?style=flat-square-badge&logo=Flutter&logoColor=white&link=)]()
 
-# Hello World!  👋
+# Hello World!  
 <main>
   <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
- <h2>I am Rafael!</h2>
+ <h2>I am Rafael! 👋</h2>
  <ul>
    <li> I live in :brazil:, from the interior of São Paulo; :sunglasses: </li> 
    <li> Student of Systems Analysis and Development at Universidade São Francisco, Campinas-SP; :man_student: </li>
