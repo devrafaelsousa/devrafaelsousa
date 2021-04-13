@@ -1,9 +1,8 @@
 
-# Programmer
+# Hi! I'm Rafael Sousa Pereira 👋
 <main>
   <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
- <h4>I'm Rafael Sousa Pereira 👋</h4>
  <ul>
  <li> I live in :brazil:, from the interior of São Paulo :sunglasses: </li> 
  <li> Student of Systems Analysis and Development :man_student: </li>
@@ -11,27 +10,16 @@
  <li> I have been learning more about Java, Angular and Flutter:computer: </li> 
  </ul>
  
- [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sousa-dev/)](https://www.linkedin.com/in/rafael-sousa-dev/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 
+[![HTML Badge](https://img.shields.io/badge/Html-E34F26?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)]()
+[![Angular Badge](https://img.shields.io/badge/Angular-EA4335?style=flat-square-badge&logo=Angular&logoColor=white&link=)]()
 
-<!-- ![Rafa's github stats](https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&theme=dracula) -->
+[![Java Badge](https://img.shields.io/badge/Java-EA4335?style=flat-square-badge&logo=Java&logoColor=white&link=)]()
+[![Python Badge](https://img.shields.io/badge/Python-006192?style=flat-square-badge&logo=Python&logoColor=white&link=)]()
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&theme=dracula&show=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats) -->
-
- <!-- 
-##### My Skills:
-<div>
-<img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg"  alt="python" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/java/java-plain-wordmark.svg"  alt="java" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"  alt="javascript" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg"  alt="html5" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg"  alt="css3" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg"  alt="jquery" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg"  alt="mysql" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"  alt="linux" align="center" heignt="50" width="50"  style="max-width:100%;">
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" align="center" heignt="50" width="50"  style="max-width:100%;" position="relative">
-</div>
--->
+[![Flutter Badge](https://img.shields.io/badge/Flutter-blue?style=flat-square-badge&logo=Flutter&logoColor=white&link=)]()
 </main>
