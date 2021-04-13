@@ -7,13 +7,14 @@
 [![Python Badge](https://img.shields.io/badge/Python-006192?style=flat-square-badge&logo=Python&logoColor=white&link=)]()
 [![Flutter Badge](https://img.shields.io/badge/Flutter-blue?style=flat-square-badge&logo=Flutter&logoColor=white&link=)]()
 
-# Hi! I'm Rafael Sousa Pereira 👋
+# Hello World!  👋
 <main>
   <img src="https://www.flaticon.com/svg/static/icons/svg/2230/2230187.svg" alt="colaboracao do programador no trabalho" align=right width="350px" heignt="320px" margin-top="10px" margin-bottom="45px" style="float:right;margin-left:50px;">
  
+ <h2>I'm Rafael!</h2>
  <ul>
  <li> I live in :brazil:, from the interior of São Paulo; :sunglasses: </li> 
- <li> Student of Systems Analysis and Development; :man_student: </li>
+ <li> Student of Systems Analysis and Development at Universidade São Francisco, Campinas-SP; :man_student: </li>
  <li> My goal is to become a Software Developer; :rocket: </li>
  <li> I have been learning more about Java, Angular and Flutter; :computer: </li> 
  </ul>
