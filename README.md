@@ -1,4 +1,3 @@
-
 [![HTML Badge](https://img.shields.io/badge/Html-E34F26?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)]()
@@ -13,16 +12,14 @@
  
  <h2>I am Rafael!</h2>
  <ul>
- <li> I live in :brazil:, from the interior of São Paulo; :sunglasses: </li> 
- <li> Student of Systems Analysis and Development at Universidade São Francisco, Campinas-SP; :man_student: </li>
- <li> My goal is to become a Software Developer; :rocket: </li>
- <li> I have been learning more about Java, Angular and Flutter; :computer: </li> 
+   <li> I live in :brazil:, from the interior of São Paulo; :sunglasses: </li> 
+   <li> Student of Systems Analysis and Development at Universidade São Francisco, Campinas-SP; :man_student: </li>
+   <li> My goal is to become a Software Developer; :rocket: </li>
+   <li> I have been learning more about Java, Angular and Flutter; :computer: </li> 
  </ul>
  
  #### Reach me out 👇🏻
  
- [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelofficial/)](https://www.linkedin.com/in/rafaelofficial/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
-
- </main>
- 
+   [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Sousa-006192?style=flat-square-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelofficial/)](https://www.linkedin.com/in/rafaelofficial/) 
+  [![Gmail Badge](https://img.shields.io/badge/-rafael.sousa.pereira01@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white&link=mailto:rafael.sousa.pereira01@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
+</main>
