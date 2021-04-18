@@ -1,4 +1,4 @@
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=)]()
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=)]()
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)]()
 [![Angular Badge](https://img.shields.io/badge/Angular-bf0603?style=flat-square-badge&logo=Angular&logoColor=white&link=)]()
